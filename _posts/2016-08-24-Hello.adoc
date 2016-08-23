@@ -1,4 +1,4 @@
 = Hello
 
-Here is my first blog.
+Here is my first blog. It is a static page generated blog using hub prress. Hubpress is github project usingg github-pages. 
 
