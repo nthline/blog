@@ -7,7 +7,8 @@
   "site": {
     "title": "NthLine",
     "description": "nth Line : New horizon for knowledge",
-    "logo": "nthline.github.io/img/profile.png"
+    "logo": "https://nthline.github.io/img/profile.png",
+    "cover": "http://www.desintegrateur.fr/content/images/2014/Feb/460028_559060700804771_1975417912_o-1.jpg"
   },
   "socialnetwork": {},
   "theme": {
